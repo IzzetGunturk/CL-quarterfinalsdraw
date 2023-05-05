@@ -77,7 +77,14 @@ namespace Wedstrijd_app__IzzetGunturk
 
         private void buttonKopen_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(KopenKaartjes("You will be forwarded to the banking app and there you can pay!", "Sorry, to give everyone an equal chance to buy a ticket, the limit is 2 tickets per person. Thank you for your understanding!"));
+            if (tBAantalKaartjes.Text == "")
+            {
+                MessageBox.Show("Please enter the number of tickets you want to buy!");
+            }
+            else
+            {
+                MessageBox.Show(KopenKaartjes("You will be forwarded to the banking app and there you can pay!", "Sorry, to give everyone an equal chance to buy a ticket, the limit is 2 tickets per person. Thank you for your understanding!"));
+            }
         }
 
         private string KopenKaartjes(string message1, string message2)
