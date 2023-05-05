@@ -1,0 +1,10 @@
+D:\CL-quarterfinalsdraw\CL-quarterfinalsdraw\bin\Debug\Wedstrijd_app, IzzetGunturk.exe.config
+D:\CL-quarterfinalsdraw\CL-quarterfinalsdraw\bin\Debug\Wedstrijd_app, IzzetGunturk.exe
+D:\CL-quarterfinalsdraw\CL-quarterfinalsdraw\bin\Debug\Wedstrijd_app, IzzetGunturk.pdb
+D:\CL-quarterfinalsdraw\CL-quarterfinalsdraw\obj\Debug\CL-quarterfinalsdraw.csprojAssemblyReference.cache
+D:\CL-quarterfinalsdraw\CL-quarterfinalsdraw\obj\Debug\Wedstrijd_app__IzzetGunturk.Form1.resources
+D:\CL-quarterfinalsdraw\CL-quarterfinalsdraw\obj\Debug\Wedstrijd_app__IzzetGunturk.Properties.Resources.resources
+D:\CL-quarterfinalsdraw\CL-quarterfinalsdraw\obj\Debug\CL-quarterfinalsdraw.csproj.GenerateResource.cache
+D:\CL-quarterfinalsdraw\CL-quarterfinalsdraw\obj\Debug\CL-quarterfinalsdraw.csproj.CoreCompileInputs.cache
+D:\CL-quarterfinalsdraw\CL-quarterfinalsdraw\obj\Debug\Wedstrijd_app, IzzetGunturk.exe
+D:\CL-quarterfinalsdraw\CL-quarterfinalsdraw\obj\Debug\Wedstrijd_app, IzzetGunturk.pdb

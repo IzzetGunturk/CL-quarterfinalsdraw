@@ -1,0 +1,20 @@
+D:\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\obj\Debug\Wedstrijd_app, IzzetGunturk.csprojAssemblyReference.cache
+D:\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\obj\Debug\Wedstrijd_app__IzzetGunturk.Form1.resources
+D:\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\obj\Debug\Wedstrijd_app__IzzetGunturk.Properties.Resources.resources
+D:\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\obj\Debug\Wedstrijd_app, IzzetGunturk.csproj.GenerateResource.cache
+D:\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\obj\Debug\Wedstrijd_app, IzzetGunturk.csproj.CoreCompileInputs.cache
+D:\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\bin\Debug\Wedstrijd_app, IzzetGunturk.exe.config
+D:\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\bin\Debug\Wedstrijd_app, IzzetGunturk.exe
+D:\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\bin\Debug\Wedstrijd_app, IzzetGunturk.pdb
+D:\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\obj\Debug\Wedstrijd_app, IzzetGunturk.exe
+D:\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\obj\Debug\Wedstrijd_app, IzzetGunturk.pdb
+D:\School2 (resterende)\Semester 1\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\bin\Debug\Wedstrijd_app, IzzetGunturk.exe.config
+D:\School2 (resterende)\Semester 1\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\bin\Debug\Wedstrijd_app, IzzetGunturk.exe
+D:\School2 (resterende)\Semester 1\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\bin\Debug\Wedstrijd_app, IzzetGunturk.pdb
+D:\School2 (resterende)\Semester 1\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\obj\Debug\Wedstrijd_app, IzzetGunturk.csprojAssemblyReference.cache
+D:\School2 (resterende)\Semester 1\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\obj\Debug\Wedstrijd_app__IzzetGunturk.Form1.resources
+D:\School2 (resterende)\Semester 1\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\obj\Debug\Wedstrijd_app__IzzetGunturk.Properties.Resources.resources
+D:\School2 (resterende)\Semester 1\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\obj\Debug\Wedstrijd_app, IzzetGunturk.csproj.GenerateResource.cache
+D:\School2 (resterende)\Semester 1\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\obj\Debug\Wedstrijd_app, IzzetGunturk.csproj.CoreCompileInputs.cache
+D:\School2 (resterende)\Semester 1\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\obj\Debug\Wedstrijd_app, IzzetGunturk.exe
+D:\School2 (resterende)\Semester 1\Software deelproducten (training) niet af\Wedstrijd_app, IzzetGunturk\Wedstrijd_app, IzzetGunturk\obj\Debug\Wedstrijd_app, IzzetGunturk.pdb
